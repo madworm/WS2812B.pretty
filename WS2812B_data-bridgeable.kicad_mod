@@ -1,5 +1,5 @@
-(module WS2812B_data-bridgeable (layer F.Cu) (tedit 53BEB4B1)
-  (fp_text reference LED? (at 0 -4.7) (layer F.SilkS) hide
+(module WS2812B_data-bridgeable (layer F.Cu) (tedit 53BEE62B)
+  (fp_text reference LED? (at 0 -4.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_text value VAL** (at 0 4.8) (layer F.SilkS) hide
