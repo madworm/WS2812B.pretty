@@ -5,4 +5,9 @@ D RGB LED with integrated controller
 K LED, RGB, intelligent
 $ENDCMP
 #
+$CMP WS2812B_
+D RGB LED with integrated controller
+K LED, RGB, intelligent
+$ENDCMP
+#
 #End Doc Library
